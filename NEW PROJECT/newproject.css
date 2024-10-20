@@ -17,11 +17,3 @@ button {
 button:hover {
     background-color: darkblue;
 }
-
-button {
-    background-color: green; /* Changed from blue to green */
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    cursor: pointer;
-}
